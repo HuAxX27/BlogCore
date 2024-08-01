@@ -1,0 +1,87 @@
+﻿@model BlogCore.Models.ViewModels.ArticleViewModel;
+
+@{
+    ViewData["Title"] = "Crear articulo";
+}
+
+<br />
+<br />
+<h3 class="text-center">Crear un nuevo articulo</h3>
+<form method="POST" asp-action="Create" enctype="multipart/form-data">
+    <div class="row px-2 offset-1 border">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="col-10 offset-1 mt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Article.Name"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Article.Name" class="form-control" placeholder="Ingrese el Nombre" />
+                    <span asp-validation-for="Article.Name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Article.Description"></label>
+                </div>
+                <div class="col-8">
+                    <textarea asp-for="Article.Description" class="form-control" style="height: 300px;"></textarea>
+                    <span asp-validation-for="Article.Description" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label for="Category"> Categoria</label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.Article.CategoryId, Model.ListCategory,
+                    "-Por favor seleccione una categoria-", new { @class= "form-control"})
+                    <span asp-validation-for="Article.CategoryId" class ="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Article.UrlImage"></label>
+                </div>
+                <div class="col-8">
+                    <input type="file" asp-for="Article.UrlImage" id="loadFile" class="form-control" />
+                    <span asp-validation-for="Article.UrlImage" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="form-group row">
+                <div class="col-8">
+                    <partial name="_ViewCreateBack" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/7.2.0/tinymce.min.js" integrity="sha512-E2dqytT185qVoAL0sfqr39BLHEBQtmZze59ChMjYi4vRUW6BzIBLZAqErdQAAAJX8bkFq2kQgQL9Lbpm8Uuw0Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'lists',
+            menubar: 'file edit format'
+        });
+    </script>
+}

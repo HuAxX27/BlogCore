@@ -1,0 +1,3 @@
+"ConnectionStrings": {
+  "ConexionSQL": "Server=AQUISERVIDOR;Database=AQUIBASEDEDATOS;User ID=AQUIUSUARIO;Password=AQUIPASSWORD;Trusted_Connection=true;Encrypt=false;MultipleActiveResultSets=true"
+},

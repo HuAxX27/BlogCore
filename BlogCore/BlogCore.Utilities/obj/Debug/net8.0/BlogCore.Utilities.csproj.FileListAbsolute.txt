@@ -1,0 +1,11 @@
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\bin\Debug\net8.0\BlogCore.Utilities.deps.json
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\bin\Debug\net8.0\BlogCore.Utilities.dll
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\bin\Debug\net8.0\BlogCore.Utilities.pdb
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\BlogCore.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\BlogCore.Utilities.AssemblyInfoInputs.cache
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\BlogCore.Utilities.AssemblyInfo.cs
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\BlogCore.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\BlogCore.Utilities.dll
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\refint\BlogCore.Utilities.dll
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\BlogCore.Utilities.pdb
+C:\Users\Axel_Loza\Documents\Cursos\ASP.NET MVC NET 8 Udemy\ProyectoBlog2\BlogCore\BlogCore.Utilities\obj\Debug\net8.0\ref\BlogCore.Utilities.dll

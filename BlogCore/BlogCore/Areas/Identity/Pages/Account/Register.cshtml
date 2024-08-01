@@ -1,0 +1,101 @@
+﻿@page
+@using BlogCore.Utilities
+@model RegisterModel
+@{
+    ViewData["Title"] = "Registrarse";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+<br />
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2>Crea una nueva cuenta.</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="nombre@ejemplo.com" />
+                <label asp-for="Input.Email">Correo electrónico</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Name" class="form-control" autocomplete="name" aria-required="true" placeholder="Ingresa el nombre" />
+                <label asp-for="Input.Name">Nombre</label>
+                <span asp-validation-for="Input.Name" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Address" class="form-control" autocomplete="address" aria-required="true" placeholder="Ingresa el domicilio" />
+                <label asp-for="Input.Address">Domicilio</label>
+                <span asp-validation-for="Input.Address" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.City" class="form-control" autocomplete="city" aria-required="true" placeholder="Ingresa la ciudad" />
+                <label asp-for="Input.City">Ciudad</label>
+                <span asp-validation-for="Input.City" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Country" class="form-control" autocomplete="country" aria-required="true" placeholder="Ingresa el pais" />
+                <label asp-for="Input.Country">Pais</label>
+                <span asp-validation-for="Input.Country" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="contraseña" />
+                <label asp-for="Input.Password">Contraseña</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="contraseña" />
+                <label asp-for="Input.ConfirmPassword">Confirmar contraseña</label>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <!-- Role Selector -->
+            <div class="form-group row">
+                <div class="col-6"><h4>Seleccionar Rol de usuario</h4></div>
+                <div class="col-5">
+                    <input type="radio" name="radUserRole" value="@Constants.Admin" /> Administrador
+                    <input type="radio" name="radUserRole" value="@Constants.Registered" /> Registrado 
+                </div>
+            </div>
+            <br />
+
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Registrarse</button>
+        </form>
+    </div>
+@*     <div class="col-md-6 col-md-offset-2">
+        <section>
+            <h3>Usa otro servicio para registrarte.</h3>
+            <hr />
+            @{
+                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                {
+                    <div>
+                        <p>
+                            No hay servicios de autenticación externa configurados. Consulta este <a href="https://go.microsoft.com/fwlink/?LinkID=532715">
+                                artículo
+                                sobre cómo configurar esta aplicación ASP.NET para admitir el inicio de sesión a través de servicios externos
+                            </a>.
+                        </p>
+                    </div>
+                }
+                else
+                {
+                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                        <div>
+                            <p>
+                                @foreach (var provider in Model.ExternalLogins!)
+                                {
+                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Inicia sesión usando tu cuenta @provider.DisplayName">@provider.DisplayName</button>
+                                }
+                            </p>
+                        </div>
+                    </form>
+                }
+            }
+        </section>
+    </div> *@
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

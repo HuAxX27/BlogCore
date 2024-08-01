@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\admin\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\admin\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore\\areas\\admin\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF315E7-4D1D-46BF-BE9A-412E5B4CE204}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150A9AC9-F0A2-47A2-B511-885DD704B6E0}|BlogCore.Utilities\\BlogCore.Utilities.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore.utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150A9AC9-F0A2-47A2-B511-885DD704B6E0}|BlogCore.Utilities\\BlogCore.Utilities.csproj|solutionrelative:blogcore.utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150A9AC9-F0A2-47A2-B511-885DD704B6E0}|BlogCore.Utilities\\BlogCore.Utilities.csproj|c:\\users\\axel_loza\\documents\\cursos\\asp.net mvc net 8 udemy\\proyectoblog2\\blogcore\\blogcore.utilities\\blogcore.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{150A9AC9-F0A2-47A2-B511-885DD704B6E0}|BlogCore.Utilities\\BlogCore.Utilities.csproj|solutionrelative:blogcore.utilities\\blogcore.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:36:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:35:56.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:33:50.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:33:33.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:25:45.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:20:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:20:51.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:20:49.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:18:49.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:18:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeletePersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:18:35.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T22:18:28.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:18:19.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T22:18:15.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T19:56:30.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:35:21.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Articles\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:34:57.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowCcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:36:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:36:07.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Articles\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Articles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Articles\\Create.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Articles\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:36:01.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T20:45:58.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlogCore.Utilities.csproj",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore.Utilities\\BlogCore.Utilities.csproj",
+              "RelativeDocumentMoniker": "BlogCore.Utilities\\BlogCore.Utilities.csproj",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore.Utilities\\BlogCore.Utilities.csproj",
+              "RelativeToolTip": "BlogCore.Utilities\\BlogCore.Utilities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T20:26:11.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:17:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAqwMcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:49:31.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T19:42:16.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore.Utilities\\Constants.cs",
+              "RelativeDocumentMoniker": "BlogCore.Utilities\\Constants.cs",
+              "ToolTip": "C:\\Users\\Axel_Loza\\Documents\\Cursos\\ASP.NET MVC NET 8 Udemy\\ProyectoBlog2\\BlogCore\\BlogCore.Utilities\\Constants.cs",
+              "RelativeToolTip": "BlogCore.Utilities\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:40:58.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
